@@ -13,6 +13,5 @@ the infectious disease simulation is carried out. The result of the simulation i
 Task 3 plots the the daily number of patients infected with the virus. 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/aber0016/Covid19_Case_Tracking/blob/main/scenario_A.png?raw=true)
+![alt text](https://github.com/aber0016/Covid19_Case_Tracking/blob/main/scenario_B.png?raw=true)
