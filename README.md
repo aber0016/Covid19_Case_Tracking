@@ -11,3 +11,8 @@ c) the health of 'patient zero' (the person that gets infected first)
 the infectious disease simulation is carried out. The result of the simulation is saved as a list of integers displaying the number of infected individuals per day.
 
 Task 3 plots the the daily number of patients infected with the virus. 
+
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
