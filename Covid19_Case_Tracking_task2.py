@@ -1,6 +1,8 @@
 '''''
 
-FIT9136 - Assignment 2 - TASK 2 - Armin Herman Dieter Berger, 26255367
+Covid19_Case_Tracking_task2
+
+Author: Armin Berger
 
 First created: 19/05/2020
 Last edited: 08/06/2020 
