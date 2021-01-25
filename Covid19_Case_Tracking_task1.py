@@ -1,6 +1,8 @@
 '''''
 
-FIT9136 - Assignment 2 - TASK 1 - Armin Herman Dieter Berger, 26255367
+Covid19_Case_Tracking_task1
+
+Author: Armin Berger
 
 First created: 16/05/2020
 Last edited: 08/06/2020 
@@ -28,8 +30,7 @@ purpose and role.
 3.  load_people()
 
 SPECIFICATIONS:
-The following set of assumptions were made in accordance with the feedback of tutors,the assignment brief and were
-required to guide the development of this program.
+The following set of assumptions were made:
 - Since we were free to decide the meeting order, I decided to create a Person object when iterating through a persons 
 friends list. Later it is checked whether a person has already bin created to avoid the duplication of people. I believe
 that this choice would make the dynamic of the virus spread more realistic since it mimics the natural infection
