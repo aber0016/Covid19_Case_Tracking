@@ -24,12 +24,7 @@ purpose and role.
 2.  run_simulation()
 3.  remove_unwanted_characters()
 4.  load_patients()
-
-SPECIFICATIONS:
-The following set of assumptions were made in accordance with the feedback of tutors,the assignment brief and were
-required to guide the development of this program.
-- 
-
+ 
 
 IMPORTED LIBRARIES: 
 - math 
