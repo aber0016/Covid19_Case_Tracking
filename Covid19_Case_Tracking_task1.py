@@ -55,6 +55,7 @@ It contains four methods.
 4)  Method 'get_friends' returns the friends list of a person.
 '''''
 class Person:
+    name = 'Person'
     # constructor method of class Person
     def __init__(self, first_name, last_name):
         self.first_name = first_name            # assign f_name to Person as self.first_name
